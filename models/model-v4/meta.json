@@ -20,16 +20,21 @@
     "tok2vec":[
 
     ],
+    "sentencizer":[
+
+    ],
     "ner":[
       "GPE"
     ]
   },
   "pipeline":[
     "tok2vec",
+    "sentencizer",
     "ner"
   ],
   "components":[
     "tok2vec",
+    "sentencizer",
     "ner"
   ],
   "disabled":[
