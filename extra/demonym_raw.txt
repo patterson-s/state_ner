@@ -1,0 +1,393 @@
+Afghanistan → Afghans (also "Afghanistanis")
+Albania → Albanians
+Algeria → Algerians
+Andorra → Andorrans
+Angola → Angolans
+Antigua → Antiguans
+Armenia → Armenians
+Australia → Australians
+Austria → Austrians
+Barbuda → Barbudans
+Belize → Belizeans
+Bolivia → Bolivians
+Bosnia and Herzegovina → Bosnians and Herzegovinians (mostly referred as Bosnians)
+Brunei → Bruneians
+Bulgaria → Bulgarians
+Burundi → Burundians
+Cambodia → Cambodians
+Chile → Chileans
+Colombia → Colombians
+Costa Rica → Costa Ricans
+Croatia → Croatians (also "Croats")
+Cuba → Cubans
+Czech Republic → Czechs
+Dominican Republic → Dominicans
+El Salvador → Salvadorans
+Eritrea → Eritreans
+Estonia → Estonians
+Ethiopia → Ethiopians
+Fiji → Fijian, Fijindians
+Galatia → Galatians
+Gambia → Gambians
+Georgia → Georgians
+Germany → Germans
+Guatemala → Guatemalans
+Guinea → Guineans
+Haiti → Haitians
+Honduras → Hondurans
+Hungary → Hungarians
+India → Indians
+Indonesia → Indonesians
+Jamaica → Jamaicans
+Kenya → Kenyans
+Kiribati → Kiribatians (also "I-Kiribati")
+Kosovo → Kosovars (also "Kosovans")
+Latvia → Latvians
+Liberia → Liberians
+Libya → Libyans
+Lithuania → Lithuanians
+Malawi → Malawians
+Malaysia → Malaysians
+Mali → Malians
+Mauritania → Mauritanians
+Mexico → Mexicans
+Micronesia → Micronesians
+Moldova → Moldovans
+Mongolia → Mongolians (also "Mongols")
+Monaco → Monacans (also "Monegasque")
+Morocco → Moroccans
+Mozambique → Mozambicans
+Namibia → Namibians
+Nauru → Nauruans
+Nicaragua → Nicaraguans
+Nigeria → Nigerians
+North Korea → North Koreans
+North Macedonia → Macedonians
+Palau → Palauans
+Papua New Guinea → Papua New Guineans
+Paraguay → Paraguayans
+Persia → Persians
+Puerto Rico → Puerto Ricans
+Romania → Romanians
+Russia → Russians
+Rwanda → Rwandans (also "Rwandese")
+Saint Lucia → Saint Lucians
+Samoa → Samoans
+Saudi Arabia → Saudi Arabians (also "Saudis")
+Serbia → Serbians (also "Serbs")
+Sierra Leone → Sierra Leoneans
+Singapore → Singaporeans
+Slovakia → Slovaks (also "Slovakians")
+Slovenia → Slovenians (also "Slovenes")
+South Africa → South Africans
+South Korea → South Koreans
+Sri Lanka → Sri Lankans
+St. Kitts and Nevis → Kittitians, Nevisians
+Syria → Syrians
+Tanzania → Tanzanians
+Tonga → Tongans
+Tunisia → Tunisians
+Tuvalu → Tuvaluans
+Uganda → Ugandans
+Uruguay → Uruguayans
+Vanuatu → Vanuatuans (also "Ni-Vanuatu")
+Venezuela → Venezuelans
+Zambia → Zambians
+Zimbabwe → Zimbabweans
+Abkhazia → Abkhazians (also "Abkhaz")
+Emirate of Abu Dhabi → Abu Dhabians (also "Dhabyani")
+Alaska → Alaskans
+Alberta → Albertans
+Algarve → Algarvians
+Andalusia → Andalusians
+Arizona → Arizonans
+Arkansas → Arkansans
+Asturias → Asturians
+Bago Region → Bagoans
+Bangka Island → Bangkans
+Bavaria → Bavarians
+Bay Of Plenty → Bayer, Plentonians
+Bohemia → Bohemians
+Borneo → Borneans
+British Columbia → British Columbians
+Brittany → Bretons
+California → Californians
+Carinthia → Carinthians
+Colorado → Coloradans
+Connecticut → Connecticuter
+Corsica → Corsicans
+Crete → Cretans
+Crimea → Crimeans
+Cumbria → Cumbrians
+Dalmatia → Dalmatians
+Delaware → Delawareans
+District of Columbia → Washingtonians
+Extremadura → Extremadurans
+Florida → Floridans (more commonly "Floridians" below)
+Galicia → Galicians
+Galilee → Galileans
+Gaza Strip → Gazans
+Georgia → Georgians
+Hawaiʻi → Hawaiians[a]
+Hebrides → Hebrideans
+Idaho → Idahoans
+Illinois → Illinoisans
+Indiana → Hoosiers
+Iowa → Iowans
+Jakarta → Jakartans
+Java → Javans (also "Javanese")
+Johor → Johoreans
+Judea → Judeans
+Kansas → Kansans
+Karelia → Karelians
+Kayah State → Kayahans
+Kedah → Kedahans
+Kentucky → Kentuckians
+Khyber Pakhtunkhwa → Pathans
+Lagos → Lagosians
+Liguria → Ligurians
+Louisiana → Louisianans (also "Louisianians")
+Madeira → Madeirans
+Malacca → Malaccans
+Majorca → Majorcans
+Mandalay Region → Mandalayans
+Manitoba → Manitobans
+Masuria → Masurians
+Menorca → Menorcans
+Minnesota → Minnesotans
+Mississippi → Mississippians
+Missouri → Missourians
+Moluccas → Moluccans
+Montana → Montanans
+Moravia → Moravians
+Nebraska → Nebraskans
+Nevada → Nevadans
+New Jersey → New Jerseyans
+New Mexico → New Mexicans (also "Neomexicanos", "Neomejicanos")
+Normandy → Normans
+North Dakota → North Dakotans
+Northwest Territories → Northwest Territorians
+Nova Scotia → Nova Scotians
+Ohio → Ohioans
+Oklahoma → Oklahomans
+Ontario → Ontarians
+Oregon → Oregonians
+Otago → Otagans
+Papua → Papuans
+Patagonia → Patagonians
+Pennsylvania → Pennsylvanians
+Pomerania → Pomeranians
+Samogitia → Samogitians
+Sabah → Sabahans
+Sarawak → Sarawakians
+Sardinia → Sardinians (also "Sards")
+Saskatchewan → Saskatchewanians (also "Saskatchewanite")
+Silesia → Silesians
+Slavonia → Slavonians
+South Australia → South Australians
+South Dakota → South Dakotans
+Styria → Styrians
+Sumatra → Sumatrans
+Sumba → Sumbans
+Sumbawa → Sumbawans
+Syrmia → Syrmians
+Tahiti → Tahitians
+Tamil Nadu → Tamilian
+Taranaki → Taranakians
+Tasmania → Tasmanians (informally "Taswegians")
+Tennessee → Tennesseans
+Texas → Texans
+Thuringia → Thuringians
+Transnistria → Transnistrians
+Transylvania → Transylvanians
+Umbria → Umbrians
+Utah → Utahns (also "Utahans")
+Victoria → Victorians
+Virginia → Virginians
+Waikato → Waikatorians
+Wake Island → Wakeans
+Wallachia → Wallachians
+Western Australia → Western Australians, West Australians (informally, "Westralians")
+West Papua → West Papuans
+West Virginia → West Virginians
+Westphalia → Westphalians
+Artsakh → Artsakhians
+Azerbaijan → Azerbaijanians (also "Azerbaijanis" and "Azeris")
+Bahamas → Bahamians
+Barbados → Barbadians (also "Bajans")
+Belarus → Belarusians
+Belgium → Belgians
+Brazil → Brazilians
+Cameroon → Cameroonians
+Canada → Canadians
+Cayman Islands → Caymanians
+Chad → Chadians
+Comoros → Comorians
+Ecuador → Ecuadorians
+Egypt → Egyptians
+Ghana → Ghanaians
+Gibraltar → Gibraltarians
+Grenada → Grenadians
+Iran → Iranians
+Italy → Italians
+Jordan → Jordanians
+Laos → Laotians
+Maldives → Maldivians
+Palestine → Palestinians
+Peru → Peruvians
+Saint Vincent → Vincentians
+Trinidad and Tobago → Trinidadians, Tobagonians (also "Trinbagonians")
+Ukraine → Ukrainians
+Guam → Guamanians
+Mawlamyine → Mawlamanians
+Panama → Panamanians
+Tobago → Tobagonians
+Trinidad and Tobago → Trinbagonians
+Argentina → Argentines
+Montenegro → Montenegrins
+Philippines → Philippine, Filipino (feminine: "Filipina", see below)
+El Salvador → Salvadoreños (also "Salvadorans")
+Philippines → Filipinos
+Luxembourg → Luxembourgers
+Iceland → Icelanders (also "Icelandic")
+Britain, Great Britain and United Kingdom → British people (demonym "Britons")
+Denmark → Danish people (demonym "Danes")
+England → English people (demonym "Englishmen", "Englishwomen")
+Finland → Finnish people (demonym "Finns", "Finnic")
+Luxembourg → Luxembourgish people (demonym "Luxembourgers")
+Poland → Polish people (demonym "Poles")
+Scotland → Scottish people (demonym "Scots", "Scotsmen", "Scotswomen")
+Spain → Spanish people (demonym "Spaniards")
+Sweden → Swedish people (demonym "Swedes")
+Turkey → Turkish people (demonym "Turks")
+Wales → Welsh people (demonym "Welshmen", "Welshwomen", "Walian")
+Slovenia → Slovenes (also "Slovenians")
+Benin → Beninese (also "Beninois")
+Bhutan → Bhutanese
+Burkina Faso → Burkinese (also "Burkinabé")
+China → Chinese
+Congo → Congolese
+Gabon → Gabonese (also "Gabonais", "Gabonaise")
+Guyana → Guyanese
+Japan → Japanese (also "Nipponese")
+Lebanon → Lebanese
+Malta → Maltese
+Marshall Islands → Marshallese
+Myanmar/Burma → Burmese 
+Portugal → Portuguese
+Rwanda → Rwandese (also "Rwandans")
+Senegal → Senegalese
+San Marino → Sammarinese
+Senegal → Senegalese
+Suriname → Surinamese
+Taiwan → Taiwanese
+Togo → Togolese
+Vietnam → Vietnamese
+Afghanistan → Afghanistanis (also "Afghans")
+Azerbaijan → Azerbaijanis (less commonly "Azeris", also "Azerbaijanians")
+Bahrain → Bahrainis
+Bangladesh → Bangladeshis
+Eswatini (Swaziland) → Swazis, Swatis
+Iraq → Iraqis
+Israel → Israelis
+Kazakhstan → Kazakhstanis (also "Kazakhs")
+Kurdistan → Kurdistanis (also "Kurdish", "Kurds")
+Kuwait → Kuwaitis
+Kyrgyzstan → Kyrgyzstanis (also "Kyrgyz")
+Nepal → Nepalis (also "Nepalese")
+Oman → Omanis
+Pakistan → Pakistanis
+Qatar → Qataris
+Somalia → Somalis
+Tajikistan → Tajikistanis (also "Tajiks")
+Thailand → Thais
+Trinidad and Tobago → Trini
+Turkmenistan → Turkmenistanis (also "Turkmen")
+United Arab Emirates → Emiratis
+Uzbekistan → Uzbekistanis (also "Uzbeks")
+Yemen → Yemenis
+Cyprus → Cypriots ("Cyprian" before 1960 independence of Cyprus)
+Greece → Greeks
+Slovakia → Slovaks
+Norway → Norwegians
+Lesotho → Lesothonians
+Peru → Peruvians
+Benin → Beninois(e) (also "Beninese")
+Gabon → Gabonais(e) (also "Gabonese")
+Niger → Nigerois(e) (also "Nigerien")
+Seychelles → Seychellois(e)
+Botswana → Motswana (singular) Batswana (plural)
+Botswana → Motswana (singular), Batswana (plural)
+Burundi → Umurundi (singular), Abarundi (plural)
+Eswatini → Liswati (singular), Emaswati (plural)
+Lesotho → Mosotho (singular), Basotho (plural)
+Cyprus → Cypriots
+Guinea Bissau → Bissau-Guinean
+Madagascar → Malagasy
+Uruguay → Orientales
+Abkhazia → Abkhazians, Abkhaz
+Afghanistan → Afghans
+Albania → Albanians
+Arab League → Arabs
+Azerbaijan → Azerbaijanis, Azeris
+Bengal → Bengali (also "Bengalese")
+Bulgaria → Bulgarians
+Cambodia → Khmers
+Chechnya → Chechens
+China → Chinese
+Croatia → Croats
+Czech Republic → Czechs
+Denmark → Danes
+Egypt → Egyptians
+England → English
+Eswatini (Swaziland) → Swazis, Swatis
+Finland → Finn
+Flanders → Flemings
+France → French
+United Kingdom → British
+Haiti → Haitian
+Hayastan → Hayastani (also "Armenians")
+Hungary → Hungarians, Magyars
+India → Indians
+Indonesia → Indonesians
+Ingushetia → Ingushians
+Iran → Iranians, Persians
+Ireland → Irish
+Israel → Israeli
+Jersey → Jerseymen, Jerseywomen
+Kalmykia → Kalmyks
+Kazakhstan → Kazakhs
+KwaZulu → Zulus
+Kurdistan → Kurds
+Kumaon → Kumaonis, Kumaiye
+Kyrgyzstan → Kyrgyzs
+Lapland → Laplanders
+Madagascar → Malagasys
+Mali → Malis
+Malta → Maltese
+Mongolia → Mongols
+Montenegro → Montenegrins
+Morocco → Moroccans
+The Americas → Native Americans, Indians
+Netherlands → Dutch
+New Zealand → Kiwis
+Odisha → Odias
+Philippines → Filipinos
+Poland → Poles
+Scotland → Scots
+Serbia → Serbs
+Sorbia → Sorbs
+Slovakia → Slovaks
+Slovenia → Slovenes
+Somalia → Somalis
+Spain → Spanish
+Sweden → Swedes
+Tajikistan → Tajiks
+Tamil Nadu → Tamils
+Tatarstan →Tatars
+Thailand → Thais
+Turkey → Turks
+Turkmenistan → Turkmens
+Ulster → Ulstermen
+United States → Americans
+Uzbekistan → Uzbeks
